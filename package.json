@@ -1,7 +1,7 @@
 {
   "name": "far99cli-number-guessing",
   "type": "module",
-  "version": "2.0.2",
+  "version": "2.1.2",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "bin" : "index.js",
